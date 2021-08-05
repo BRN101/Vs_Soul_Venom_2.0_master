@@ -1,0 +1,7 @@
+Tutorial:gf:0
+SighOfDespair:venom:7
+GetOut:venom:7
+SoulVenom:venomtransformed:7
+Soulvdila:venom-minus:8
+Ughvenom:venom-minus:8
+Soulovania:venom-minus:8
